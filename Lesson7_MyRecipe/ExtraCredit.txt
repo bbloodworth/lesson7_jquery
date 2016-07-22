@@ -1,0 +1,2 @@
+I added a hover effect that uses an animation to expand the section, changes the bakcground color of 
+the h3 element and changes the foreground color of the h3 element.
